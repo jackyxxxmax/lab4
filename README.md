@@ -1,4 +1,4 @@
-A.
+A.(1)averagePdRd,(2)averageif,(3)main
 B.
 (1)1 8
    4 8
